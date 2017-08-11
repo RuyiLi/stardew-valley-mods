@@ -1,0 +1,5 @@
+C:\Users\ruyil\Desktop\Visual Studio Projects\AutoWaterSMAPI\AutoWaterSMAPI\bin\Debug\AutoWaterSMAPI.dll
+C:\Users\ruyil\Desktop\Visual Studio Projects\AutoWaterSMAPI\AutoWaterSMAPI\bin\Debug\AutoWaterSMAPI.pdb
+C:\Users\ruyil\Desktop\Visual Studio Projects\AutoWaterSMAPI\AutoWaterSMAPI\obj\Debug\AutoWaterSMAPI.csprojResolveAssemblyReference.cache
+C:\Users\ruyil\Desktop\Visual Studio Projects\AutoWaterSMAPI\AutoWaterSMAPI\obj\Debug\AutoWaterSMAPI.dll
+C:\Users\ruyil\Desktop\Visual Studio Projects\AutoWaterSMAPI\AutoWaterSMAPI\obj\Debug\AutoWaterSMAPI.pdb
