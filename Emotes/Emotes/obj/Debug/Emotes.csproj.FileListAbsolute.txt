@@ -1,0 +1,5 @@
+C:\Users\ruyil\Desktop\Visual Studio Projects\Emotes\Emotes\obj\Debug\Emotes.csprojResolveAssemblyReference.cache
+C:\Users\ruyil\Desktop\Visual Studio Projects\Emotes\Emotes\bin\Debug\Emotes.dll
+C:\Users\ruyil\Desktop\Visual Studio Projects\Emotes\Emotes\bin\Debug\Emotes.pdb
+C:\Users\ruyil\Desktop\Visual Studio Projects\Emotes\Emotes\obj\Debug\Emotes.dll
+C:\Users\ruyil\Desktop\Visual Studio Projects\Emotes\Emotes\obj\Debug\Emotes.pdb
