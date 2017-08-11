@@ -1,0 +1,5 @@
+C:\Users\ruyil\Desktop\Visual Studio Projects\SMAPITrailMod\SMAPITrailMod\bin\Debug\SMAPITrailMod.dll
+C:\Users\ruyil\Desktop\Visual Studio Projects\SMAPITrailMod\SMAPITrailMod\bin\Debug\SMAPITrailMod.pdb
+C:\Users\ruyil\Desktop\Visual Studio Projects\SMAPITrailMod\SMAPITrailMod\obj\Debug\SMAPITrailMod.csprojResolveAssemblyReference.cache
+C:\Users\ruyil\Desktop\Visual Studio Projects\SMAPITrailMod\SMAPITrailMod\obj\Debug\SMAPITrailMod.dll
+C:\Users\ruyil\Desktop\Visual Studio Projects\SMAPITrailMod\SMAPITrailMod\obj\Debug\SMAPITrailMod.pdb
