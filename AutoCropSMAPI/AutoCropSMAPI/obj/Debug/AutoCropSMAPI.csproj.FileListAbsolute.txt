@@ -1,0 +1,5 @@
+C:\Users\ruyil\Desktop\Visual Studio Projects\AutoCropSMAPI\AutoCropSMAPI\obj\Debug\AutoCropSMAPI.csprojResolveAssemblyReference.cache
+C:\Users\ruyil\Desktop\Visual Studio Projects\AutoCropSMAPI\AutoCropSMAPI\bin\Debug\AutoCropSMAPI.dll
+C:\Users\ruyil\Desktop\Visual Studio Projects\AutoCropSMAPI\AutoCropSMAPI\bin\Debug\AutoCropSMAPI.pdb
+C:\Users\ruyil\Desktop\Visual Studio Projects\AutoCropSMAPI\AutoCropSMAPI\obj\Debug\AutoCropSMAPI.dll
+C:\Users\ruyil\Desktop\Visual Studio Projects\AutoCropSMAPI\AutoCropSMAPI\obj\Debug\AutoCropSMAPI.pdb
