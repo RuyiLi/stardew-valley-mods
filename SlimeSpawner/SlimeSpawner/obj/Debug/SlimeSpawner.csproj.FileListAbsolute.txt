@@ -1,0 +1,5 @@
+C:\Users\ruyil\Desktop\Visual Studio Projects\SlimeSpawner\SlimeSpawner\bin\Debug\SlimeSpawner.dll
+C:\Users\ruyil\Desktop\Visual Studio Projects\SlimeSpawner\SlimeSpawner\bin\Debug\SlimeSpawner.pdb
+C:\Users\ruyil\Desktop\Visual Studio Projects\SlimeSpawner\SlimeSpawner\obj\Debug\SlimeSpawner.csprojResolveAssemblyReference.cache
+C:\Users\ruyil\Desktop\Visual Studio Projects\SlimeSpawner\SlimeSpawner\obj\Debug\SlimeSpawner.dll
+C:\Users\ruyil\Desktop\Visual Studio Projects\SlimeSpawner\SlimeSpawner\obj\Debug\SlimeSpawner.pdb
