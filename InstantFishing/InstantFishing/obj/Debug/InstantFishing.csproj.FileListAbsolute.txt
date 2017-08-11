@@ -1,0 +1,5 @@
+C:\Users\ruyil\Desktop\Visual Studio Projects\InstantFishing\InstantFishing\bin\Debug\InstantFishing.dll
+C:\Users\ruyil\Desktop\Visual Studio Projects\InstantFishing\InstantFishing\bin\Debug\InstantFishing.pdb
+C:\Users\ruyil\Desktop\Visual Studio Projects\InstantFishing\InstantFishing\obj\Debug\InstantFishing.csprojResolveAssemblyReference.cache
+C:\Users\ruyil\Desktop\Visual Studio Projects\InstantFishing\InstantFishing\obj\Debug\InstantFishing.dll
+C:\Users\ruyil\Desktop\Visual Studio Projects\InstantFishing\InstantFishing\obj\Debug\InstantFishing.pdb
