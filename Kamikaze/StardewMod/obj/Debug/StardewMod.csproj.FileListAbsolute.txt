@@ -1,0 +1,5 @@
+C:\Users\ruyil\Desktop\Visual Studio Projects\StardewMod\StardewMod\bin\Debug\StardewMod.dll
+C:\Users\ruyil\Desktop\Visual Studio Projects\StardewMod\StardewMod\bin\Debug\StardewMod.pdb
+C:\Users\ruyil\Desktop\Visual Studio Projects\StardewMod\StardewMod\obj\Debug\StardewMod.csprojResolveAssemblyReference.cache
+C:\Users\ruyil\Desktop\Visual Studio Projects\StardewMod\StardewMod\obj\Debug\StardewMod.dll
+C:\Users\ruyil\Desktop\Visual Studio Projects\StardewMod\StardewMod\obj\Debug\StardewMod.pdb
